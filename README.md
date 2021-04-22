@@ -13,7 +13,7 @@ Once complete, the user will be able to save their events into local storage. <b
 
 ## Links
 
-Link to deployment: <https://glevii.github.io/Code_Quiz/>
+Link to deployment: <https://glevii.github.io/Work-Day-Scheduler/>
 
 ## Questions
 
